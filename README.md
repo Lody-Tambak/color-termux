@@ -25,4 +25,4 @@ print(f"{color}Text"
 * Bash
 ```
 echo -e "${color}Text"
-o
+```
