@@ -8,15 +8,15 @@
 <a href="https://github.com/Lody-Tambak"><img title="Github" src="https://img.shields.io/badge/Kang-Kebun__-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/lodytambak/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
-## Color Use
-Can Color </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px"> A Tool Or Script, Can Be Used In Programming Python, Bash And Others
+## Kenggunaan Warna
+Dapat Mewarnai </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="25px"> Tools Atau Script, Dapat Digunakan Dalam Pemrograman Python, Bash Dan Lainnya
   
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
-## Only Available At : 
+## Telah Dicoba : 
 * Termux
   
-## How To Use :
+## Cara Menggunakan :
 
 * Python
 ```
