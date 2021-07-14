@@ -20,9 +20,9 @@ Dapat Mewarnai </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode
 
 * Python
 ```
-print(f"{color}Text"
+print(f"{warna}Text"
 ```
 * Bash
 ```
-echo -e "${color}Text"
+echo -e "${warna}Text"
 ```
